@@ -13,5 +13,5 @@ services:
             - "20-21:20-21/tcp"
             - "40000-40009:40000-40009/tcp" # For passive mode
         volumes:
-            - "${PAPERLESS_CONSUME_PATH}:/home/${FTP_USERNAME}}"
+            - "${PAPERLESS_CONSUMPTION_DIR}:/home/${FTP_USERNAME}}"
         restart: always
