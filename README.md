@@ -11,7 +11,7 @@ The Name of the Docker-Container
 
 The Username of the FTP-User/FTP-Admin
 
-> FTP_USERNAME
+> FTP_PASSWORD
 
 The Password, correspoinding to the FTP-User/FTP-Admin
 
